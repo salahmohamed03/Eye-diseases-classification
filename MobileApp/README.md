@@ -1,6 +1,6 @@
-# math_research
+# Mobile Application
 
-A new Flutter project.
+The mobile application of the model
 
 ## Getting Started
 
